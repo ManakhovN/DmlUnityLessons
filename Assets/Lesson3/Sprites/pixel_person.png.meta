@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: c36ce2df7149c3841a00150fe16d8d35
+timeCreated: 1474861025
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pixel_person_0
+    21300002: pixel_person_1
+    21300004: pixel_person_2
+    21300006: pixel_person_3
+    21300008: pixel_person_4
+    21300010: pixel_person_5
+    21300012: pixel_person_6
+    21300014: pixel_person_7
+    21300016: pixel_person_8
+    21300018: pixel_person_9
+    21300020: pixel_person_10
+    21300022: pixel_person_11
+    21300024: pixel_person_12
+    21300026: pixel_person_13
+    21300028: pixel_person_14
+    21300030: pixel_person_15
+    21300032: pixel_person_16
+    21300034: pixel_person_17
+    21300036: pixel_person_18
+    21300038: pixel_person_19
+    21300040: pixel_person_20
+    21300042: pixel_person_21
+    21300044: pixel_person_22
+    21300046: pixel_person_23
+    21300048: pixel_person_24
+    21300050: pixel_person_25
+    21300052: pixel_person_26
+    21300054: pixel_person_27
+    21300056: pixel_person_28
+    21300058: pixel_person_29
+    21300060: pixel_person_30
+    21300062: pixel_person_31
+    21300064: pixel_person_32
+    21300066: pixel_person_33
+    21300068: pixel_person_34
+    21300070: pixel_person_35
+    21300072: pixel_person_36
+    21300074: pixel_person_37
+    21300076: pixel_person_38
+    21300078: pixel_person_39
+    21300080: pixel_person_40
+    21300082: pixel_person_41
+    21300084: pixel_person_42
+    21300086: pixel_person_43
+    21300088: pixel_person_44
+    21300090: pixel_person_45
+    21300092: pixel_person_46
+    21300094: pixel_person_47
+    21300096: pixel_person_48
+    21300098: pixel_person_49
+    21300100: pixel_person_50
+    21300102: pixel_person_51
+    21300104: pixel_person_52
+    21300106: pixel_person_53
+    21300108: pixel_person_54
+    21300110: pixel_person_55
+    21300112: pixel_person_56
+    21300114: pixel_person_57
+    21300116: pixel_person_58
+    21300118: pixel_person_59
+    21300120: pixel_person_60
+    21300122: pixel_person_61
+    21300124: pixel_person_62
+    21300126: pixel_person_63
+    21300128: pixel_person_64
+    21300130: pixel_person_65
+    21300132: pixel_person_66
+    21300134: pixel_person_67
+    21300136: pixel_person_68
+    21300138: pixel_person_69
+    21300140: pixel_person_70
+    21300142: pixel_person_71
+    21300144: pixel_person_72
+    21300146: pixel_person_73
+    21300148: pixel_person_74
+    21300150: pixel_person_75
+    21300152: pixel_person_76
+    21300154: pixel_person_77
+    21300156: pixel_person_78
+    21300158: pixel_person_79
+    21300160: pixel_person_80
+    21300162: pixel_person_81
+    21300164: pixel_person_82
+    21300166: pixel_person_83
+    21300168: pixel_person_84
+    21300170: pixel_person_85
+    21300172: pixel_person_86
+    21300174: pixel_person_87
+    21300176: pixel_person_88
+    21300178: pixel_person_89
+    21300180: pixel_person_90
+    21300182: pixel_person_91
+    21300184: pixel_person_92
+    21300186: pixel_person_93
+    21300188: pixel_person_94
+    21300190: pixel_person_95
+    21300192: pixel_person_96
+    21300194: pixel_person_97
+    21300196: pixel_person_98
+    21300198: pixel_person_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_person_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pixel_person_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
