@@ -34,9 +34,11 @@ public class PersonageController : MonoBehaviour {
             else
                 animator.SetTrigger("Stop");            
         }
-
+        animator.SetBool("isFlying", isFlying);
         if (!isFlying && Input.GetKeyDown(KeyCode.Space))
+        {
             movingVector.y = 400f;
+        }
         else movingVector.y = 0f;
         rigidBody.AddForce(movingVector, ForceMode2D.Force);
         isFlying = true;
@@ -48,7 +50,9 @@ public class PersonageController : MonoBehaviour {
             Vector2 collisionPosition = transform.InverseTransformPoint(coll.contacts[0].point);
             Vector2 collisionPosition2 = transform.InverseTransformPoint(coll.contacts[1].point);
             if (collisionPosition.y == collisionPosition2.y)
+            {
                 isFlying = false;
+            }
         }
     }
 }
