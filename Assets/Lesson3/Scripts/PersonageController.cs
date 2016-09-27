@@ -37,7 +37,7 @@ public class PersonageController : MonoBehaviour {
         animator.SetBool("isFlying", isFlying);
         if (!isFlying && Input.GetKeyDown(KeyCode.Space))
         {
-            movingVector.y = 400f;
+            movingVector.y = 440f;
         }
         else movingVector.y = 0f;
         rigidBody.AddForce(movingVector, ForceMode2D.Force);
