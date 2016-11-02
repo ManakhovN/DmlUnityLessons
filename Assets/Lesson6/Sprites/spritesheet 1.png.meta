@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0ee0f55af5d7c51428ce33cdd49a7fae
-timeCreated: 1477439647
+timeCreated: 1477480882
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -25,6 +25,7 @@ TextureImporter:
     21300036: spritesheet 1_7
     21300038: spritesheet 1_8
     21300040: spritesheet 1_9
+    21300042: spritesheet 1_10
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -69,7 +70,12 @@ TextureImporter:
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -240,6 +246,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 6, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 210
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 2, w: 3}
       outline: []
       tessellationDetail: 0
     outline: []
