@@ -7,7 +7,7 @@ public class MenuTagChanger : EditorWindow {
 	string newTag;
 
 
-	[MenuItem ("MyMenu/Change All Tags")]
+	[MenuItem ("TagsControl/Change All Tags")]
 	public static void  ShowWindow () {
 		EditorWindow.GetWindow(typeof(MenuTagChanger));
 	}
