@@ -55,11 +55,11 @@ public class Crosshair : NetworkBehaviour
                 Transform parent = hitInfo.transform.parent;
                 if (parent != null)
                 {
-                    Flying flyingObject = parent.GetComponent<Flying>();
+              /*      Flying flyingObject = parent.GetComponent<Flying>();
                     if (flyingObject != null)
                     {
                         flyingObject.DestroyShip();
-                    }
+                    }*/
                 }
             }
             else
